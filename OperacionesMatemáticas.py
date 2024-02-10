@@ -1,5 +1,9 @@
 # Operaciones Matemáticas
 
+# PARADIGMA (Enfoque para realizar algo)
+# ESTRUCTURADO: Secuencial, Selectivo/Decisivo e Iterativo
+# FUNCIONAL/PROCEDIMIENTOS, DECLARATIVO (SQL), PROGRAMACIÓN ORIENTADA A OBJETOS, O A EVENTOS
+
 # Importar bibliotecas o librerías de Funciones Matemáticas
 import math
 
@@ -7,6 +11,8 @@ import math
 # Declarar, crear o instancias variables o constantes
 número_1 = float(input("Ingresa un número: ")) # CASTEO.- Conversión de un tipo de dato a otro tipo de dato
 número_2 = float(input("Ingresa otro número: "))
+# Declarar una CONSTANTE
+PI = 3.1416
 
 # PROCESOS (Cálculos y operaciones matemáticas y lógicas)
 suma = número_1 + número_2
